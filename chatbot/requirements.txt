@@ -1,2 +1,0 @@
-line-bot-sdk
-flask linebot random datetime difflib jieba chatterbot requests bs4 urllib pandas
